@@ -1,0 +1,24 @@
+Connect your code with your work in Jira Software. A separate Jira subscription is required. With two of your most important tools connected, you'll spend less time managing projects and more time working on them.
+
+Connect GitHub to Jira
+
+Easily connect one or more GitHub Organizations to your Jira site and select specific repositories to bring your work together. Use the Smart Commits syntax to sync related commits, branches, and pull requests to a project in Jira.
+
+Automatic context in your Jira issues
+
+Get updates and links about what’s happening with your repositories in Jira issues for:
+
+Pull Requests
+Commits
+Branches
+Take actions on Jira issues without leaving your development workflow
+
+Use specific commands in your commit message to perform these actions:
+
+Close an issue
+Add a comment
+Update time tracking information
+Transition workflow state
+Show Jira information in GitHub
+
+Get references to Jira in GitHub issues and pull requests
